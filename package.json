@@ -37,7 +37,6 @@
     "commander": "2.x.x",
     "co-prompt": "1.x.x",
     "express": "4.x.x",
-    "actionrouter": "git+ssh://git@github.com:OculusVR/node-actionrouter.git#master",
     "bootable": "0.2.x",
     "bootable-environment": "0.2.x",
     "parent-require": "1.x.x",
