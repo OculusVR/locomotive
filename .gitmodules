@@ -1,0 +1,3 @@
+[submodule "node_modules/node-actionrouter"]
+	path = node_modules/node-actionrouter
+	url = git@github.com:OculusVR/node-actionrouter.git
